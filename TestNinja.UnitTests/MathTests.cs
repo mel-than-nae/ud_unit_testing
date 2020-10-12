@@ -16,6 +16,7 @@ namespace TestNinja.UnitTests
         }
         
         [Test]
+        // [Ignore("Because i want to atm.")]
         public void Add_WhenCalled_ReturnTheSumOfArguments()
         {
             // Act
