@@ -1,0 +1,6 @@
+packages
+TestNinja/obj
+TestNinja/bin
+TestNinja/packages.config
+.idea
+.DS_Store
