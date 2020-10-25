@@ -99,3 +99,5 @@ D:\Users\amelis\udemy\unit_testing\unit testing for c# developers\TestNinja\Test
 D:\Users\amelis\udemy\unit_testing\unit testing for c# developers\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp3.1\TestNinja.UnitTests.dll
 D:\Users\amelis\udemy\unit_testing\unit testing for c# developers\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp3.1\TestNinja.UnitTests.pdb
 D:\Users\amelis\udemy\unit_testing\unit testing for c# developers\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp3.1\TestNinja.UnitTests.genruntimeconfig.cache
+D:\Users\amelis\udemy\unit_testing\unit testing for c# developers\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Users\amelis\udemy\unit_testing\unit testing for c# developers\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp3.1\Moq.dll
